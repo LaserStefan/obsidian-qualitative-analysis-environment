@@ -2,5 +2,3 @@
 
 Some description.
 
-## Examples
-![[0]]

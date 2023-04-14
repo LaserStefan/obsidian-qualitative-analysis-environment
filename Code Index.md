@@ -3,7 +3,11 @@
 
 ## Breakdown by category
 ### Uncategorized
-[[A sample code]]
+``` dataview
+
+list from "codes"
+
+```
 
 ### Some other category
 [[A second sample code]]
