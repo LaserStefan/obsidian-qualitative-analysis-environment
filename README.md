@@ -1,9 +1,9 @@
-![image](https://github.com/LaserStefan/obsidian-qualitative-analysis-environment/assets/85789220/524c8e7b-9c33-408b-a720-2fa44339f60f)# obsidian-qualitative-analysis-environment
-This is a forked version of [this environment, the text below is just a copy(https://github.com/ryanjamurphy/obsidian-qualitative-analysis-environment). However, I do things slightly differently in my environment. I do not use links below an interview file, but right in the middle of the text. It also works great and is more precise.
+# obsidian-qualitative-analysis-environment
+This is a forked version of [this environment(https://github.com/ryanjamurphy/obsidian-qualitative-analysis-environment). However, I do things slightly differently in my environment. I do not use links below an interview file, but right in the middle of the text. It also works great and is more precise.
 
-It works like this: Create a link with `[[` where a code should be linked. It can be in multiple places. Then you can populate the code with a brief description of what it is, and in the right extra panel you have all links to key passages. Additional helpful quotes in the description of the code itself are optional.
+It works like this: Create a link with `[[` where a code should be linked. It can be in multiple places. Then you can populate the code with a brief description of what it is, and in the right extra panel, you have all links to key passages. Additional helpful quotes in the description of the code itself are optional.
 
-I also suggest deviding the codes slightly differently. I only use codes for brief, fleeting codings, and memos for more advanced thoughts. Codes can "upgrade," as it were, but sometimes I start with a memo right away, because I know it's key.
+I also suggest dividing the codes slightly differently. I only use codes for brief, fleeting codings, and memos for more advanced thoughts. Codes can "upgrade," as it were, but sometimes I start with a memo right away, because I know it's key. More info on this setup is in the `readme` folder, which also includes the original readme of the environment.
 
 # A Qualitative Analysis environment for Obsidian
 
@@ -21,5 +21,3 @@ To learn more, read the [blog post](https://axle.design/an-integrated-qualitativ
 ## Use
 Read the [blog post](https://axle.design/an-integrated-qualitative-analysis-environment-with-obsidian) or review the documentation included in the environment.
 
-## Contribution
-This is a forked version. The original author welcomes suggestions and changes via [pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) or, if you'd like to build on this environment with significant changes, feel free to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository.
