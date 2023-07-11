@@ -1,5 +1,5 @@
 # obsidian-qualitative-analysis-environment
-This is a forked version of [this environment9(https://github.com/ryanjamurphy/obsidian-qualitative-analysis-environment). However, I do things slightly differently in my environment. I do not use links below an interview file, but right in the middle of the text. It also works great and is more precise.
+This is a forked version of [this environment](https://github.com/ryanjamurphy/obsidian-qualitative-analysis-environment). However, I do things slightly differently in my environment. I do not use links below an interview file, but right in the middle of the text. It also works great and is more precise.
 
 It works like this: Create a link with `[[` where a code should be linked. It can be in multiple places. Then you can populate the code with a brief description of what it is, and in the right extra panel, you have all links to key passages. Additional helpful quotes in the description of the code itself are optional.
 
